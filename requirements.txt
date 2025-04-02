@@ -29,7 +29,7 @@ debugpy==1.8.1
 decorator==4.4.2
 defusedxml==0.7.1
 distlib==0.3.7
-executing==2.0.1
+executing==2.2.0
 fastjsonschema==2.19.1
 ffmpy==0.3.2
 filelock==3.13.1

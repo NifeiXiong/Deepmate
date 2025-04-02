@@ -42,7 +42,7 @@ gdown==4.7.1
 google-auth==2.25.2
 google-auth-oauthlib==1.2.0
 google-pasta==0.2.0
-graphviz==0.20.1
+graphviz==0.20.3
 grpcio==1.60.0
 h11==0.14.0
 h5py==3.10.0

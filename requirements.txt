@@ -31,7 +31,7 @@ defusedxml==0.7.1
 distlib==0.3.7
 executing==2.0.1
 fastjsonschema==2.19.1
-ffmpy==0.3.2
+ffmpy==0.5.0
 filelock==3.13.1
 flatbuffers==23.5.26
 fonttools==4.46.0
